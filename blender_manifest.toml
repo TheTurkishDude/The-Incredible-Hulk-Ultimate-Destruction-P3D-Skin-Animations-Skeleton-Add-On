@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "p3d_ud_animation"
+version = "1.0.0"
+name = "Pure3D (.p3d) Animation Tools"
+tagline = "View, extract, edit and batch import/export Radical Pure3D skeletal animations, skeletons and Xbox/PS2/GameCube skins"
+maintainer = "TheTurkishDude"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Import-Export", "Animation"]
+
+[permissions]
+files = "Read and write .p3d files chosen by the user"
